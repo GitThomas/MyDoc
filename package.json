@@ -2,6 +2,7 @@
   "name": "mydoc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gitthomas.github.io/mydoc",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
