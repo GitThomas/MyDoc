@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://gitthomas.github.io/mydoc",
   "dependencies": {
+    "@material-ui/core": "^3.6.2",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
